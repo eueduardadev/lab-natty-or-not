@@ -32,7 +32,7 @@ uso da api do site editoraitacaiunas
 primeiro deve-se escolher o estilo de arte de sua preferência, em seguida o layout e por fim um bom detalhamento da historia
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+foram satifatorios mas um pouco distante da realidade
 
 ## 💭 Reflexão (Opcional)
 É inteessante como uma maquina se aperfeiçoa para se aproximar ao natural feito pelo ser humano, embora não conseguisse expressar exatamente ao meus comandos. 
