@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criação de paginas de hq com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia é criar publicações para redes sociais em forma de quadrinhos  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+uso da api do site editoraitacaiunas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+primeiro deve-se escolher o estilo de arte de sua preferência, em seguida o layout e por fim um bom detalhamento da historia
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É inteessante como uma maquina se aperfeiçoa para se aproximar ao natural feito pelo ser humano, embora não conseguisse expressar exatamente ao meus comandos. 
 ```
 
 ### Exemplos e Insigths
